@@ -1,0 +1,6 @@
+{
+  "name": "时间日程",
+  "description": "一款支持日程管理、系统日历同步、提醒服务及专注时长统计的时间管家App。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

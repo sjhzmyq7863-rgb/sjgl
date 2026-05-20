@@ -1,0 +1,54 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Calendar sheet backing -->
+    <path
+        android:pathData="M30,36 C30,31.58 33.58,28 38,28 H70 C74.42,28 78,31.58 78,36 V68 C78,72.42 74.42,76 70,76 H38 C33.58,76 30,72.42 30,68 Z"
+        android:fillColor="#E7F0FF" />
+
+    <!-- Top binding hanger loops -->
+    <path
+        android:pathData="M40,20 V28 M68,20 V28"
+        android:strokeColor="#0061A4"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round" />
+
+    <!-- Calendar header split line -->
+    <path
+        android:pathData="M30,40 H78"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2" />
+
+    <!-- Clock Dial White background plate -->
+    <path
+        android:pathData="M54,32 A20,20 0 1,1 54,72 A20,20 0 1,1 54,32 Z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Clock face outline circle (Outer Ring) -->
+    <path
+        android:pathData="M54,32 A20,20 0 1,1 54,72 A20,20 0 1,1 54,32 Z"
+        android:strokeColor="#0061A4"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+
+    <!-- Clock swiss-style minimalist ticking bars -->
+    <path
+        android:pathData="M54,32 V35 M54,72 V69 M34,52 H37 M74,52 H71"
+        android:strokeColor="#0061A4"
+        android:strokeWidth="2"
+        android:strokeLineCap="round" />
+
+    <!-- Checkmark Hands representing unified scheduling and completion -->
+    <path
+        android:pathData="M44,52 L51,59 L64,43"
+        android:strokeColor="#001D35"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000" />
+
+</vector>
